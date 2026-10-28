@@ -1,3 +1,6 @@
+package products.product_types.subelec;
+import products.product_types.ElectronicProduct;
+import date.Date;
 public class Laptop extends ElectronicProduct{
     private int ramGB;
 

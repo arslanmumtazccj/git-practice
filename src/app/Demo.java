@@ -1,3 +1,10 @@
+package app;
+import date.Date;
+import products.Product;
+import products.product_types.ElectronicProduct;
+import products.product_types.ClothingProduct;
+import products.product_types.subelec.Laptop;
+
 public class Demo{
     public static void main(String[] args){
     Product p1 = new Product("Adnan Noul",20000,new Date(1,1,1));

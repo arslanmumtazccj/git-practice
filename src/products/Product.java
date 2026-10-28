@@ -1,3 +1,5 @@
+package products;
+import date.Date;
 public class Product{
     private static int nextId = 1;
     private static final String ID_SUFFIX = "-PRD";
